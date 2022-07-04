@@ -7,3 +7,4 @@ I sometimes suffer from insomnia. And when I can't fall asleep, I play what I ca
 #6. Numberz \nWrite a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 #7. Smile in the mirror \n Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 #8. Hexadecimal \n Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
+#9. Patience, persistence and perspiration make an unbeatable combination for success \n Write a program that prints all possible combinations of single-digit numbers.
