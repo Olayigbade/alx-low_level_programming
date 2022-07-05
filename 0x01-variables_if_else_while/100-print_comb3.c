@@ -12,7 +12,7 @@ int main(void)
 	for (i = '0'; i <= '9'; i++)
 	{
 		for (e = d; e <= '9'; e++)
-		{	
+		{
 			if (e != i)
 			{
 				putchar(i);
@@ -23,7 +23,6 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			
 		}
 		d++;
 	}
